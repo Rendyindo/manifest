@@ -15,5 +15,5 @@
   <project path="flyme/release" name="FlymeOS/flyme-release"/>
   <project path="flyme/overlay" name="FlymeOS/flyme-overlay" />
   <project path="devices/base" name="FlymeOS/devices-base" />
-  <project path="devices/X510" name="Rendyindo/Flyme_X510" />
+  <project path="devices/X510" name="Rendyindo/Flyme_X510-cm" />
 </manifest>
