@@ -14,7 +14,6 @@
   <project path="tools" name="FlymeOS/tools" />
   <project path="flyme/release" name="FlymeOS/flyme-release"/>
   <project path="flyme/overlay" name="FlymeOS/flyme-overlay" />
-  <project path="devices/v3750" name="
-Xcelerator1/Flyme_v3750-cm" />
+  <project path="devices/v3750" name="Xcelerator1/Flyme_v3750-cm" />
   <project path="devices/base_cm" name="FlymeOS/devices-base_cm" />
 </manifest>
