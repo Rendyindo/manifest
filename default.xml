@@ -3,7 +3,7 @@
   <remote name="origin"
           fetch=".." />
 
-  <default revision="refs/heads/marshmallow-6.0"
+  <default revision="refs/heads/nougat-7.1"
            remote="origin"
            sync-j="4" />
 
@@ -15,6 +15,4 @@
   <project path="flyme/release" name="FlymeOS/flyme-release"/>
   <project path="flyme/overlay" name="FlymeOS/flyme-overlay" />
   <project path="devices/X510" name="Rendyindo/Flyme_X510-cm" />
-  <project path="devices/base_cm" name="FlymeOS/devices-base_cm" />
-  <project path="devices/sprout" name="Rendyindo/Flyme_sprout8-cm" />
 </manifest>
